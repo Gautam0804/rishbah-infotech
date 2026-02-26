@@ -8,7 +8,7 @@ Inspired by platforms like ExportersIndia & IndiaMART.
 
 ## 🚀 Live Demo
 
-👉 https://your-live-link.vercel.app
+👉 https://rishbah-infotech.vercel.app/
 
 ---
 
@@ -65,7 +65,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/gautam0804/b2bmarket.git
+git clone https://github.com/gautam0804/rishabh-infotech.git
 
 Go inside project:
 
